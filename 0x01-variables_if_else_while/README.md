@@ -1,1 +1,1 @@
-variabls
+Variables
